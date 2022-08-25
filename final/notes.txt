@@ -1,0 +1,4 @@
+username = tnash90
+password = 1D5DIXvcEFupgcgi
+
+connection string =mongodb+srv://tnash90:<1D5DIXvcEFupgcgi>@cluster0.qyxikjz.mongodb.net/?retryWrites=true&w=majority
